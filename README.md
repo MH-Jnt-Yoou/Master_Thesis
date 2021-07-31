@@ -6,7 +6,7 @@ This repository is to offer a supplementary data used in the master thesis proje
 
 # Technical Overview
 
-Codes of test statistics and drawing plots were run through R(v. 4.0.3) and RStudio(v. 1.3.1093) in Windows 10 Pro (v. 20H2). If codes do not work, please check the version of packages on your R library and versions of packages used in this study (They are written in Material and methods section of the thesis).
+Codes of test statistics and drawing plots were run through R (v. 4.0.3) and RStudio (v. 1.3.1093) in Windows 10 Pro (v. 20H2). If codes do not work, please check the version of packages on your R library and versions of packages used in this study (They are written in Material and methods section of the thesis).
 
 # Directory structure
 
