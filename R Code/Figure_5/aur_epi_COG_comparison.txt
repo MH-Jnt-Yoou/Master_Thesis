@@ -1,0 +1,359 @@
+Group	Category	COG	Count	perc	id
+"Poorly
+characterized"	Core	S	11	0.013110846	aur_AD
+"Poorly
+characterized"	ACC	R	10	0.046728972	aur_AD
+"Poorly
+characterized"	ACC	S	3	0.014018692	aur_AD
+"Poorly
+characterized"	SS	R	15	0.069444444	aur_AD
+"Poorly
+characterized"	SS	S	3	0.013888889	aur_AD
+"Poorly
+characterized"	Core	R	53	0.063549161	aur_HE
+"Poorly
+characterized"	Core	S	13	0.01558753	aur_HE
+"Poorly
+characterized"	ACC	R	11	0.047413793	aur_HE
+"Poorly
+characterized"	ACC	S	2	0.00862069	aur_HE
+"Poorly
+characterized"	SS	R	3	0.025423729	aur_HE
+"Poorly
+characterized"	SS	S	2	0.016949153	aur_HE
+"Poorly
+characterized"	Core	R	51	0.064150943	epi_AD
+"Poorly
+characterized"	Core	S	6	0.00754717	epi_AD
+"Poorly
+characterized"	ACC	R	1	0.01369863	epi_AD
+"Poorly
+characterized"	ACC	S	1	0.01369863	epi_AD
+"Poorly
+characterized"	SS	S	1	0.018518519	epi_AD
+"Poorly
+characterized"	SS	R	1	0.018518519	epi_AD
+"Poorly
+characterized"	Core	R	57	0.067938021	aur_AD
+Mobileome	Core	X	2	0.00238379	aur_AD
+Mobileome	ACC	X	16	0.074766355	aur_AD
+Mobileome	SS	X	1	0.00462963	aur_AD
+Mobileome	Core	X	3	0.003597122	aur_HE
+Mobileome	ACC	X	14	0.060344828	aur_HE
+Mobileome	SS	X	2	0.016949153	aur_HE
+Mobileome	Core	X	2	0.002515723	epi_AD
+Mobileome	ACC	X	1	0.01369863	epi_AD
+Mobileome	SS	X	1	0.018518519	epi_AD
+Metabolism	Core	Q	17	0.020262217	aur_AD
+Metabolism	Core	P	93	0.110846246	aur_AD
+Metabolism	Core	I	38	0.045292014	aur_AD
+Metabolism	Core	H	60	0.071513707	aur_AD
+Metabolism	Core	G	66	0.078665077	aur_AD
+Metabolism	Core	F	30	0.035756853	aur_AD
+Metabolism	Core	E	102	0.121573302	aur_AD
+Metabolism	Core	C	37	0.044100119	aur_AD
+Metabolism	ACC	E	33	0.154205607	aur_AD
+Metabolism	ACC	P	29	0.135514019	aur_AD
+Metabolism	ACC	H	15	0.070093458	aur_AD
+Metabolism	ACC	Q	1	0.004672897	aur_AD
+Metabolism	ACC	G	11	0.051401869	aur_AD
+Metabolism	ACC	F	2	0.009345794	aur_AD
+Metabolism	ACC	C	7	0.03271028	aur_AD
+Metabolism	SS	E	62	0.287037037	aur_AD
+Metabolism	SS	P	31	0.143518519	aur_AD
+Metabolism	SS	H	3	0.013888889	aur_AD
+Metabolism	SS	G	13	0.060185185	aur_AD
+Metabolism	SS	Q	3	0.013888889	aur_AD
+Metabolism	SS	I	1	0.00462963	aur_AD
+Metabolism	SS	C	2	0.009259259	aur_AD
+Metabolism	Core	P	91	0.10911271	aur_HE
+Metabolism	Core	E	104	0.12470024	aur_HE
+Metabolism	Core	G	67	0.080335731	aur_HE
+Metabolism	Core	H	61	0.073141487	aur_HE
+Metabolism	Core	I	34	0.040767386	aur_HE
+Metabolism	Core	Q	16	0.019184652	aur_HE
+Metabolism	Core	C	39	0.04676259	aur_HE
+Metabolism	Core	F	33	0.039568345	aur_HE
+Metabolism	ACC	I	5	0.021551724	aur_HE
+Metabolism	ACC	P	27	0.11637931	aur_HE
+Metabolism	ACC	H	14	0.060344828	aur_HE
+Metabolism	ACC	E	43	0.185344828	aur_HE
+Metabolism	ACC	G	12	0.051724138	aur_HE
+Metabolism	ACC	F	1	0.004310345	aur_HE
+Metabolism	ACC	Q	2	0.00862069	aur_HE
+Metabolism	ACC	C	6	0.025862069	aur_HE
+Metabolism	SS	I	15	0.127118644	aur_HE
+Metabolism	SS	P	8	0.06779661	aur_HE
+Metabolism	SS	Q	2	0.016949153	aur_HE
+Metabolism	SS	C	4	0.033898305	aur_HE
+Metabolism	SS	G	18	0.152542373	aur_HE
+Metabolism	SS	E	7	0.059322034	aur_HE
+Metabolism	SS	H	2	0.016949153	aur_HE
+Metabolism	Core	G	52	0.065408805	epi_AD
+Metabolism	Core	H	66	0.083018868	epi_AD
+Metabolism	Core	P	79	0.099371069	epi_AD
+Metabolism	Core	E	116	0.14591195	epi_AD
+Metabolism	Core	F	31	0.038993711	epi_AD
+Metabolism	Core	Q	14	0.017610063	epi_AD
+Metabolism	Core	I	32	0.040251572	epi_AD
+Metabolism	Core	C	39	0.049056604	epi_AD
+Metabolism	ACC	E	6	0.082191781	epi_AD
+Metabolism	ACC	P	11	0.150684932	epi_AD
+Metabolism	ACC	G	13	0.178082192	epi_AD
+Metabolism	ACC	H	5	0.068493151	epi_AD
+Metabolism	ACC	I	4	0.054794521	epi_AD
+Metabolism	ACC	C	1	0.01369863	epi_AD
+Metabolism	SS	E	7	0.12962963	epi_AD
+Metabolism	SS	P	5	0.092592593	epi_AD
+Metabolism	SS	G	8	0.148148148	epi_AD
+Metabolism	SS	C	5	0.092592593	epi_AD
+Metabolism	SS	I	4	0.074074074	epi_AD
+Metabolism	SS	H	4	0.074074074	epi_AD
+"Information storage
+and processing"	Core	L	43	0.05125149	aur_AD
+"Information storage
+and processing"	Core	K	51	0.060786651	aur_AD
+"Information storage
+and processing"	Core	J	68	0.081048868	aur_AD
+"Information storage
+and processing"	ACC	K	14	0.065420561	aur_AD
+"Information storage
+and processing"	ACC	L	10	0.046728972	aur_AD
+"Information storage
+and processing"	ACC	J	3	0.014018692	aur_AD
+"Information storage
+and processing"	SS	K	17	0.078703704	aur_AD
+"Information storage
+and processing"	SS	L	11	0.050925926	aur_AD
+"Information storage
+and processing"	SS	J	2	0.009259259	aur_AD
+"Information storage
+and processing"	Core	K	52	0.06235012	aur_HE
+"Information storage
+and processing"	Core	J	67	0.080335731	aur_HE
+"Information storage
+and processing"	Core	L	41	0.049160671	aur_HE
+"Information storage
+and processing"	ACC	K	16	0.068965517	aur_HE
+"Information storage
+and processing"	ACC	J	3	0.012931034	aur_HE
+"Information storage
+and processing"	ACC	L	13	0.056034483	aur_HE
+"Information storage
+and processing"	SS	K	14	0.118644068	aur_HE
+"Information storage
+and processing"	SS	L	14	0.118644068	aur_HE
+"Information storage
+and processing"	SS	J	3	0.025423729	aur_HE
+"Information storage
+and processing"	Core	L	47	0.059119497	epi_AD
+"Information storage
+and processing"	Core	J	65	0.081761006	epi_AD
+"Information storage
+and processing"	Core	K	44	0.055345912	epi_AD
+"Information storage
+and processing"	ACC	L	3	0.04109589	epi_AD
+"Information storage
+and processing"	ACC	K	9	0.123287671	epi_AD
+"Information storage
+and processing"	ACC	J	3	0.04109589	epi_AD
+"Information storage
+and processing"	SS	K	5	0.092592593	epi_AD
+"Information storage
+and processing"	SS	L	1	0.018518519	epi_AD
+"Cellular processing
+and signaling"	Core	V	17	0.020262217	aur_AD
+"Cellular processing
+and signaling"	Core	U	11	0.013110846	aur_AD
+"Cellular processing
+and signaling"	Core	T	41	0.0488677	aur_AD
+"Cellular processing
+and signaling"	Core	O	28	0.033373063	aur_AD
+"Cellular processing
+and signaling"	Core	N	3	0.003575685	aur_AD
+"Cellular processing
+and signaling"	Core	M	48	0.057210965	aur_AD
+"Cellular processing
+and signaling"	Core	D	16	0.019070322	aur_AD
+"Cellular processing
+and signaling"	ACC	O	13	0.060747664	aur_AD
+"Cellular processing
+and signaling"	ACC	T	10	0.046728972	aur_AD
+"Cellular processing
+and signaling"	ACC	V	21	0.098130841	aur_AD
+"Cellular processing
+and signaling"	ACC	M	12	0.056074766	aur_AD
+"Cellular processing
+and signaling"	ACC	N	1	0.004672897	aur_AD
+"Cellular processing
+and signaling"	ACC	U	1	0.004672897	aur_AD
+"Cellular processing
+and signaling"	ACC	D	2	0.009345794	aur_AD
+"Cellular processing
+and signaling"	SS	T	10	0.046296296	aur_AD
+"Cellular processing
+and signaling"	SS	O	9	0.041666667	aur_AD
+"Cellular processing
+and signaling"	SS	N	1	0.00462963	aur_AD
+"Cellular processing
+and signaling"	SS	V	11	0.050925926	aur_AD
+"Cellular processing
+and signaling"	SS	U	1	0.00462963	aur_AD
+"Cellular processing
+and signaling"	SS	M	17	0.078703704	aur_AD
+"Cellular processing
+and signaling"	SS	D	3	0.013888889	aur_AD
+"Cellular processing
+and signaling"	Core	W	1	0.001199041	aur_HE
+"Cellular processing
+and signaling"	Core	N	3	0.003597122	aur_HE
+"Cellular processing
+and signaling"	Core	O	23	0.027577938	aur_HE
+"Cellular processing
+and signaling"	Core	T	43	0.051558753	aur_HE
+"Cellular processing
+and signaling"	Core	V	16	0.019184652	aur_HE
+"Cellular processing
+and signaling"	Core	U	11	0.013189448	aur_HE
+"Cellular processing
+and signaling"	Core	Z	1	0.001199041	aur_HE
+"Cellular processing
+and signaling"	Core	M	45	0.053956835	aur_HE
+"Cellular processing
+and signaling"	Core	D	17	0.020383693	aur_HE
+"Cellular processing
+and signaling"	ACC	O	16	0.068965517	aur_HE
+"Cellular processing
+and signaling"	ACC	T	13	0.056034483	aur_HE
+"Cellular processing
+and signaling"	ACC	V	21	0.090517241	aur_HE
+"Cellular processing
+and signaling"	ACC	M	12	0.051724138	aur_HE
+"Cellular processing
+and signaling"	ACC	D	1	0.004310345	aur_HE
+"Cellular processing
+and signaling"	SS	V	14	0.118644068	aur_HE
+"Cellular processing
+and signaling"	SS	M	9	0.076271186	aur_HE
+"Cellular processing
+and signaling"	SS	O	1	0.008474576	aur_HE
+"Cellular processing
+and signaling"	Core	V	18	0.022641509	epi_AD
+"Cellular processing
+and signaling"	Core	M	50	0.062893082	epi_AD
+"Cellular processing
+and signaling"	Core	T	38	0.047798742	epi_AD
+"Cellular processing
+and signaling"	Core	O	23	0.028930818	epi_AD
+"Cellular processing
+and signaling"	Core	D	11	0.013836478	epi_AD
+"Cellular processing
+and signaling"	Core	U	11	0.013836478	epi_AD
+"Cellular processing
+and signaling"	ACC	T	3	0.04109589	epi_AD
+"Cellular processing
+and signaling"	ACC	N	1	0.01369863	epi_AD
+"Cellular processing
+and signaling"	ACC	M	4	0.054794521	epi_AD
+"Cellular processing
+and signaling"	ACC	V	3	0.04109589	epi_AD
+"Cellular processing
+and signaling"	ACC	O	4	0.054794521	epi_AD
+"Cellular processing
+and signaling"	SS	V	4	0.074074074	epi_AD
+"Cellular processing
+and signaling"	SS	M	4	0.074074074	epi_AD
+"Cellular processing
+and signaling"	SS	T	1	0.018518519	epi_AD
+"Cellular processing
+and signaling"	SS	O	1	0.018518519	epi_AD
+"Cellular processing
+and signaling"	SS	D	1	0.018518519	epi_AD
+"Cellular processing
+and signaling"	SS	U	1	0.018518519	epi_AD
+"Cellular processing
+and signaling"	Core	T	43	0.048974943	epi_HE
+"Cellular processing
+and signaling"	Core	U	9	0.010250569	epi_HE
+"Cellular processing
+and signaling"	Core	N	3	0.003416856	epi_HE
+"Cellular processing
+and signaling"	Core	O	30	0.034168565	epi_HE
+"Cellular processing
+and signaling"	Core	W	1	0.001138952	epi_HE
+"Cellular processing
+and signaling"	Core	D	12	0.013667426	epi_HE
+"Cellular processing
+and signaling"	Core	M	52	0.059225513	epi_HE
+"Cellular processing
+and signaling"	Core	V	25	0.028473804	epi_HE
+"Cellular processing
+and signaling"	Core	Z	1	0.001138952	epi_HE
+"Information storage
+and processing"	Core	L	49	0.055808656	epi_HE
+"Information storage
+and processing"	Core	J	68	0.077448747	epi_HE
+"Information storage
+and processing"	Core	K	50	0.056947608	epi_HE
+Metabolism	Core	H	70	0.079726651	epi_HE
+Metabolism	Core	P	93	0.105922551	epi_HE
+Metabolism	Core	C	41	0.046697039	epi_HE
+Metabolism	Core	G	65	0.074031891	epi_HE
+Metabolism	Core	E	126	0.143507973	epi_HE
+Metabolism	Core	F	32	0.036446469	epi_HE
+Metabolism	Core	Q	14	0.01594533	epi_HE
+Metabolism	Core	I	34	0.038724374	epi_HE
+Mobileome	Core	X	2	0.002277904	epi_HE
+"Poorly
+characterized"	Core	R	50	0.056947608	epi_HE
+"Poorly
+characterized"	Core	S	8	0.009111617	epi_HE
+Metabolism	SS	E	3	0.136363636	epi_HE
+Metabolism	SS	G	1	0.045454545	epi_HE
+"Information storage
+and processing"	SS	K	3	0.136363636	epi_HE
+"Cellular processing
+and signaling"	SS	M	3	0.136363636	epi_HE
+Metabolism	SS	I	1	0.045454545	epi_HE
+Metabolism	SS	P	3	0.136363636	epi_HE
+"Poorly
+characterized"	SS	R	2	0.090909091	epi_HE
+"Cellular processing
+and signaling"	SS	V	4	0.181818182	epi_HE
+"Cellular processing
+and signaling"	SS	U	1	0.045454545	epi_HE
+"Cellular processing
+and signaling"	SS	T	1	0.045454545	epi_HE
+"Poorly
+characterized"	ACC	R	0	0	epi_HE
+"Poorly
+characterized"	ACC	S	0	0	epi_HE
+Mobileome	ACC	X	0	0	epi_HE
+Metabolism	ACC	E	0	0	epi_HE
+Metabolism	ACC	P	0	0	epi_HE
+Metabolism	ACC	H	0	0	epi_HE
+Metabolism	ACC	Q	0	0	epi_HE
+Metabolism	ACC	G	0	0	epi_HE
+Metabolism	ACC	F	0	0	epi_HE
+Metabolism	ACC	C	0	0	epi_HE
+Metabolism	ACC	I	0	0	epi_HE
+"Information storage
+and processing"	ACC	K	0	0	epi_HE
+"Information storage
+and processing"	ACC	L	0	0	epi_HE
+"Information storage
+and processing"	ACC	J	0	0	epi_HE
+"Cellular processing
+and signaling"	ACC	O	0	0	epi_HE
+"Cellular processing
+and signaling"	ACC	T	0	0	epi_HE
+"Cellular processing
+and signaling"	ACC	V	0	0	epi_HE
+"Cellular processing
+and signaling"	ACC	M	0	0	epi_HE
+"Cellular processing
+and signaling"	ACC	N	0	0	epi_HE
+"Cellular processing
+and signaling"	ACC	U	0	0	epi_HE
+"Cellular processing
+and signaling"	ACC	D	0	0	epi_HE

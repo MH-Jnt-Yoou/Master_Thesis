@@ -1,0 +1,13 @@
+Species	Category	Hypo	id	Value
+S.aureus	Core	Hypothetical	Core_Hypothetical	0.08
+S.aureus	Core	Annotated	Core_Annotated	0.24
+S.aureus	ACC	Hypothetical	ACC_Hypothetical	0.27
+S.aureus	ACC	Annotated	ACC_Annotated	0.15
+S.aureus	SS	Hypothetical	SS_Hypothetical	0.16
+S.aureus	SS	Annotated	SS_Annotated	0.10
+S.epidermidis	Core	Hypothetical	Core_Hypothetical	0.15
+S.epidermidis	Core	Annotated	Core_Annotated	0.42
+S.epidermidis	ACC	Hypothetical	ACC_Hypothetical	0.09
+S.epidermidis	ACC	Annotated	ACC_Annotated	0.06
+S.epidermidis	SS	Hypothetical	SS_Hypothetical	0.20
+S.epidermidis	SS	Annotated	SS_Annotated	0.07

@@ -1,0 +1,76 @@
+Strain	id	Species	Site	Status	Patient_ID	Time	URE	ADH	ODC	ESC	GLU	FRU	MNE	MAL	LAC	TRE	MAN	RAF	NIT	VP	•‚GAL	ArgA	PAL	PyrA	NOVO	SAC	NAG	TUR	ARA	•‚GUR	RIB	CEL
+360	360_24h	S.aureus	Skin	AD	31	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	0	0	2	0	0	0	0
+359	359_24h	S.aureus	Skin	AD	31	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	0	0	2	0	0	0	0
+358	358_24h	S.aureus	Skin	AD	31	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	0	0	2	0	0	0	0
+357	357_24h	S.aureus	Nose	AD	31	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	0	0	2	0	0	0	0
+355	355_24h	S.aureus	Nose	AD	31	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	0	0	2	0	0	0	0
+356	356_24h	S.aureus	Nose	AD	31	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	0	0	2	0	0	0	0
+365	365_24h	S.aureus	Nose	AD	150	24h	0	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	0	0	2	0	0	0	0
+366	366_24h	S.aureus	Nose	AD	150	24h	0	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	0	0	2	0	0	0	0
+276	276_24h	S.aureus	Skin	AD	119	24h	2	2	0	2	2	2	2	2	0	2	2	0	2	2	0	0	2	2	2	2	2	0	0	0	0	0
+281	281_24h	S.aureus	Nose	AD	119	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	2	0	2	2	2	2	2	2	0	0	0	0
+277	277_24h	S.aureus	Skin	AD	119	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+280	280_24h	S.aureus	Nose	AD	119	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+278	278_24h	S.aureus	Skin	AD	119	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	2	2	2	1	0	0	0	0
+282	282_24h	S.aureus	Nose	AD	119	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	2	2	2	1	0	0	0	0
+197	197_24h	S.aureus	Nose	AD	9030	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	2	1	2	2	0	2	2	2	0	0	0	0
+195	195_24h	S.aureus	Skin	AD	9030	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	1	2	2	1	2	2	2	0	0	0	0
+196	196_24h	S.aureus	Skin	AD	9030	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	1	2	2	0	2	2	2	0	0	0	0
+319	319_24h	S.aureus	Nose	HE	9008	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+318	318_24h	S.aureus	Nose	HE	9008	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+317	317_24h	S.aureus	Nose	HE	9008	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+428	428_24h	S.aureus	Unknown	AD	49	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+201	201_24h	S.aureus	Nose	HE	80	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+370	370_24h	S.aureus	Skin	AD	150	24h	1	2	0	0	2	2	2	2	2	2	2	0	1	2	0	0	2	2	2	2	2	2	0	0	0	0
+200	200_24h	S.aureus	Nose	HE	122_OLD	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	1	2	2	2	2	0	0	0	0
+202	202_24h	S.aureus	Nose	HE	80	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	1	2	2	2	2	0	0	0	0
+184	184_24h	S.aureus	Unknown	AD	E39/21	24h	1	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+367	367_24h	S.aureus	Nose	AD	150	24h	1	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+372	372_24h	S.aureus	Skin	AD	150	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+371	371_24h	S.aureus	Skin	AD	150	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+199	199_24h	S.aureus	Nose	AD	9030	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+198	198_24h	S.aureus	Nose	AD	9030	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+334	334_24h	S.aureus	Nose	HE	9055	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+333	333_24h	S.aureus	Nose	HE	122_OLD	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+DSM20231	DSM20231_24h	S.aureus	Unknown	Unknown	Unknown	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+332	332_24h	S.aureus	Nose	HE	9055	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	2	2	2	2	0	0	0	0
+194	194_24h	S.aureus	Skin	AD	9030	24h	2	2	0	0	2	2	2	2	2	2	2	0	2	2	0	2	2	2	2	2	2	2	0	0	0	0
+329	329_24h	S.aureus	Nose	HE	9024	24h	0	2	0	0	2	2	2	2	2	2	2	0	2	2	0	1	2	2	2	2	2	2	0	0	0	0
+323	323_24h	S.aureus	Nose	HE	9014	24h	2	2	0	0	2	0	2	2	0	2	2	0	2	2	0	0	2	1	0	2	2	2	0	0	0	0
+322	322_24h	S.aureus	Nose	HE	9014	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	1	1	2	2	2	0	0	0	0
+324	324_24h	S.aureus	Nose	HE	9014	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	1	0	2	2	2	0	0	0	0
+L6	L6_24h	S.aureus	Skin lesional hand	AD	291	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+L5	L5_24h	S.aureus	Skin lesional hand	AD	291	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+L4	L4_24h	S.aureus	Skin lesional hand	AD	291	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+AC6	AC6_24h	S.aureus	Skin control AC	AD	291	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+AC5	AC5_24h	S.aureus	Skin control AC	AD	291	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+AC4	AC4_24h	S.aureus	Skin control AC	AD	291	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+N6	N6_24h	S.aureus	Nose	AD	291	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+N4	N4_24h	S.aureus	Nose	AD	291	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+N5	N5_24h	S.aureus	Nose	AD	291	24h	2	2	0	0	2	2	2	2	0	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+490	490_24h	S.aureus	Unknown	AD	180	24h	0	2	0	0	2	2	2	2	0	2	0	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+502	502_24h	S.aureus	Unknown	AD	83	24h	0	0	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+327	327_24h	S.aureus	Nose	HE	9024	24h	0	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	1	0	2	2	1	0	0	0	0
+432	432_24h	S.aureus	Unknown	AD	162	24h	0	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	2	0	2	2	2	0	0	0	0
+328	328_24h	S.aureus	Nose	HE	122_OLD	24h	0	2	0	0	2	2	2	2	2	2	2	0	2	2	0	0	2	1	0	2	2	2	0	0	0	0
+399	399_24h	S.epidermidis	Unknown	AD	161	24h	0	0	2	0	2	2	0	2	2	2	0	0	2	2	0	0	2	0	0	2	0	2	0	0	0	0
+431	431_24h	S.epidermidis	Unknown	AD	162	24h	2	0	2	0	2	2	2	2	0	0	0	0	2	2	0	0	2	0	0	2	0	0	0	0	0	0
+004	004_24h	S.epidermidis	Nose	HE	MP	24h	2	2	0	0	2	2	0	2	0	0	0	0	2	2	0	2	0	0	0	2	0	0	0	0	0	0
+272	272_24h	S.epidermidis	Unknown	AD	122	24h	2	2	0	0	2	2	2	2	2	0	0	0	2	2	0	0	2	0	0	2	0	1	0	0	0	0
+185	185_24h	S.epidermidis	Unknown	AD	E39/21	24h	2	2	0	0	2	2	0	2	2	0	0	0	2	2	0	0	2	0	0	2	0	2	0	0	0	0
+494	494_24h	S.epidermidis	Unknown	AD	180	24h	2	2	0	0	2	2	0	2	2	0	0	0	2	2	0	0	2	0	0	2	0	1	0	0	0	0
+313	313_24h	S.epidermidis	Nose	HE	9036	24h	2	2	0	0	2	2	0	2	0	0	0	0	2	2	0	0	2	0	0	2	0	1	0	0	0	0
+390	390_24h	S.epidermidis	Skin lesion	AD	159	24h	2	2	0	0	2	2	0	2	0	2	0	0	2	2	0	0	2	0	0	2	0	2	0	0	0	0
+L6	L6_48h	S.aureus	Skin lesional hand	AD	291	48h	2	2	0	0	2	2	2	2	2	2	2	2	2	2	0	0	2	2	2	2	2	2	2	0	2	2
+L5	L5_48h	S.aureus	Skin lesional hand	AD	291	48h	0	2	0	0	2	2	2	2	2	2	2	2	2	2	0	0	2	2	2	2	2	2	0	0	2	2
+L4	L4_48h	S.aureus	Skin lesional hand	AD	291	48h	0	2	0	0	2	2	2	2	2	2	2	2	2	2	0	0	2	2	2	2	2	2	2	0	2	2
+N6	N6_48h	S.aureus	Nose	AD	291	48h	0	2	0	0	2	2	2	2	2	2	2	2	2	2	0	0	2	2	2	2	2	2	2	0	2	2
+N4	N4_48h	S.aureus	Nose	AD	291	48h	0	2	0	0	2	2	2	2	2	2	2	2	2	2	0	0	2	2	2	2	2	2	2	0	2	2
+N5	N5_48h	S.aureus	Nose	AD	291	48h	0	2	0	0	2	2	2	2	2	2	2	2	2	2	0	0	2	2	2	2	2	2	2	0	2	2
+AC6	AC6_48h	S.aureus	Skin control AC	AD	291	48h	2	2	0	0	2	2	2	2	2	2	2	2	2	2	0	2	2	2	2	2	2	2	2	2	2	2
+AC4	AC4_48h	S.aureus	Skin control AC	AD	291	48h	2	2	0	0	2	2	2	2	2	2	2	2	2	2	0	2	2	2	2	2	2	2	2	2	2	2
+AC5	AC5_48h	S.aureus	Skin control AC	AD	291	48h	2	2	0	0	2	2	2	2	2	2	2	2	2	2	0	2	2	2	2	2	2	2	2	2	2	2
+201	201_48h	S.aureus	Nose	HE	80	48h	2	2	0	0	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	0	0	2	2
+202	202_48h	S.aureus	Nose	HE	80	48h	2	2	0	0	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	0	0	2	2
+DSM20231	DSM20231_48h	S.aureus	Unknown	Unknown	Unknown	48h	2	2	0	0	2	2	2	2	2	2	2	2	2	2	0	2	2	2	2	2	2	2	2	0	2	2
+200	200_48h	S.aureus	Nose	HE	122_OLD	48h	2	2	0	0	2	2	2	2	2	2	2	2	2	2	0	2	2	2	2	2	2	2	0	0	2	2
